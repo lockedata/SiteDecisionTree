@@ -9,8 +9,8 @@ Parent,L1,L2,L3,URL
 ,Company,Consultancy,Other,https://itsalocke.com/#contact
 ,Person,Read,Books,https://itsalocke.com/company/books
 ,Person,Read,Blog,https://itsalocke.com/blog
-,Person,Conferences and user groups,Upcoming events,https://itsalocke.com/#calendar
-,Person,Conferences and user groups,Past talks and slides,https://itsalocke.com/talks
+,Person,Events,Upcoming events,https://itsalocke.com/#calendar
+,Person,Events,Past talks and slides,https://itsalocke.com/talks
 ,Person,Online,Learn R by email,http://eepurl.com/df8me1
 ,Person,Online,Newsletter,http://eepurl.com/df8me1
 ,Person,Online,GitHub,https://github.com/lockedata
