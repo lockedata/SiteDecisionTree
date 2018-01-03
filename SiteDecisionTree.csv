@@ -1,18 +1,18 @@
-Parent,L1,L2,L3,URL
-,Company,Training,Private,https://itsalocke.com/company/recommendedtraining
-,Company,Training,Public,https://itsalocke.com/#calendar
-,Company,Training,Online,https://itsalocke.com/company/onlinetraining
-,Company,Support,Remote Guru,https://itsalocke.com/company/remoteguru
-,Company,Consultancy,Getting started with data science,https://itsalocke.com/company/readiness
-,Company,Consultancy,Help on projects,https://itsalocke.com/company/techleadership
-,Company,Consultancy,Need a review,https://itsalocke.com/company/peerreview
-,Company,Consultancy,Other,https://itsalocke.com/#contact
-,Person,Read,Books,https://itsalocke.com/company/books
-,Person,Read,Blog,https://itsalocke.com/blog
-,Person,Events,Upcoming events,https://itsalocke.com/#calendar
-,Person,Events,Past talks and slides,https://itsalocke.com/talks
-,Person,Online,Learn R by email,http://eepurl.com/df8me1
-,Person,Online,Newsletter,http://eepurl.com/df8me1
-,Person,Online,GitHub,https://github.com/lockedata
-,Person,Online,Packages,https://itsalocke.com/oss/packages
-,Person,Online,Videos,https://www.youtube.com/channel/UCAg9ZUc9v3YedOuyAd-nDZQ
+L1,L2,L3,URL
+Company,Training,On-site training,https://itsalocke.com/company/recommendedtraining
+Company,Training,Public training,https://itsalocke.com/#calendar
+Company,Training,Onlien training,https://itsalocke.com/company/onlinetraining
+Company,Support,Remote Guru,https://itsalocke.com/company/remoteguru
+Company,Consultancy,Getting started with data science,https://itsalocke.com/company/readiness
+Company,Consultancy,Help on projects,https://itsalocke.com/company/techleadership
+Company,Consultancy,Need a review,https://itsalocke.com/company/peerreview
+Company,Consultancy,Other services,https://itsalocke.com/#contact
+Person,Read,Books,https://itsalocke.com/company/books
+Person,Read,Blog,https://itsalocke.com/blog
+Person,Events,Upcoming events,https://itsalocke.com/#calendar
+Person,Events,Past talks and slides,https://itsalocke.com/talks
+Person,Online,Learn R by email,http://eepurl.com/df8me1
+Person,Online,Newsletter,http://eepurl.com/df8me1
+Person,Online,GitHub,https://github.com/lockedata
+Person,Online,Packages,https://itsalocke.com/oss/packages
+Person,Online,Videos,https://www.youtube.com/channel/UCAg9ZUc9v3YedOuyAd-nDZQ
